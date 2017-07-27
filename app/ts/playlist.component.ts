@@ -3,7 +3,7 @@ import {Video} from './video';
 
 @Component({
   selector: 'playlist',
-  templateUrl: 'app/template/playlist.component.html',
+  templateUrl: 'app/templates/playlist.component.html',
   inputs: ['videos']
 })
 

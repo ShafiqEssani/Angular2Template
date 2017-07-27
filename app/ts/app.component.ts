@@ -6,7 +6,7 @@ import {PlaylistComponent} from './playlist.component';
 
 @Component({
     selector: 'my-app',
-    templateUrl: 'app/template/app.component.html',
+    templateUrl: 'app/templates/app.component.html',
     directives: [
       PlaylistComponent
     ]
