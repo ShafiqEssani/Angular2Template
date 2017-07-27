@@ -5,4 +5,4 @@ import {Component} from 'angular2/core';
   templateUrl: 'app/ts/playlist.component.html'
 })
 
-export class playlist {}
+export class PlaylistComponent {}
