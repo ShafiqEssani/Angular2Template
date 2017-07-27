@@ -1,3 +1,3 @@
 export class Config {
-  static MYVAR: string = "Main Header";
+  static MYVAR: string = "Favourite Videos";
 }
